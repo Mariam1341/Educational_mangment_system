@@ -57,8 +57,6 @@ A console-based application designed to simulate an Educational Management Syste
 - **Manage Courses**: Doctors can create courses, assign teaching assistants, and manage students.
 - **Assignment Workflow**: Students can view, submit, and track assignments, while Doctors can evaluate and report on submissions.
 
-## Screenshots
-(Add screenshots of the main menu, course management interface, and assignment submissions for better visualization.)
 
 ## Future Enhancements
 - Integration of encryption for sensitive data (e.g., passwords).
